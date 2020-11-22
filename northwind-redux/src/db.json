@@ -1,0 +1,19 @@
+{
+    "categories": [
+      { "id": 1, "categoryId": "1", "categoryName": "Beverages" },
+      { "id": 2, "categoryId": "2", "categoryName": "Condiments" },
+      { "id": 3, "categoryId": "3", "categoryName": "Confections" },
+      { "id": 4, "categoryId": "4", "categoryName": "Dairy Products" },
+      { "id": 5, "categoryId": "5", "categoryName": "Grains/Cereals" },
+      { "id": 6, "categoryId": "6", "categoryName": "Produce" }
+    ],
+
+    "products": [
+      { "id": 1, "categoryId": "1", "productName": "Beverages" },
+      { "id": 2, "categoryId": "2", "productName": "Condiments" },
+      { "id": 3, "categoryId": "3", "productName": "Confections" },
+      { "id": 4, "categoryId": "4", "productName": "Dairy Products" },
+      { "id": 5, "categoryId": "5", "productName": "Grains/Cereals" },
+      { "id": 6, "categoryId": "6", "productName": "Produce" }
+    ]
+}
