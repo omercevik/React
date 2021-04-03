@@ -1,7 +1,7 @@
 # React Projects
 
     Workspace: Ubuntu 20.04.1 LTS
-               Microsoft Visiual Studio Code
+               Microsoft Visual Studio Code
 
 1. Intro -> Basic Cart and Form Project of React using JSON Server.
 
